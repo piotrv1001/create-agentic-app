@@ -1,0 +1,21 @@
+{
+  "name": "create-agent-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-agent-app": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^9.5.3",
+    "prompts": "^2.4.2"
+  },
+  "type": "module"
+}
